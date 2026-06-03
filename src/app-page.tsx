@@ -23,7 +23,6 @@ export function AppPage() {
         <QuizSection />
         <Footer />
         <ScrollToTop />
-        <ChatWidget />
       </IsMobileWrapper>
     </main>
   );
