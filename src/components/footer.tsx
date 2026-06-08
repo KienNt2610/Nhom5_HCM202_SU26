@@ -98,12 +98,6 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-border pt-8 text-center">
-          <p className="text-sm text-foreground/70">&copy; 2025 - HCM202 - Môn học tư tưởng Hồ Chí Minh</p>
-          <p className="text-xs text-foreground/50 mt-2">
-            Website được xây dựng nhằm mục đích giáo dục và tưởng nhớ công lao của Chủ tịch Hồ Chí Minh
-          </p>
-        </div>
       </div>
     </footer>
   );

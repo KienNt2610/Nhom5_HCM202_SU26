@@ -20,7 +20,6 @@ export function Header() {
     { label: 'Địa Danh', href: '#locations' },
     { label: 'Ý Nghĩa', href: '#significance' },
     { label: 'Kiểm Tra', href: '#quiz' },
-    { label: 'Báo Cáo AI', href: '#ai-report' },
     { label: 'Nhóm 5_HCM202_SU26', href: '#team' },
   ];
 
